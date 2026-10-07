@@ -245,11 +245,11 @@ I believe the best way to become a better developer is by continuously building 
 
 <div align="center">
 
-<a href="github.com/OmarTech2025">
+<a href="https://github.com/OmarTech2025">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/sherif-arfa">
+<a href="https://www.linkedin.com/in/sherif-arfa">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
