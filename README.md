@@ -249,11 +249,11 @@ I believe the best way to become a better developer is by continuously building 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sherif-arfa">
+<a href="https://www.linkedin.com/in/sherif-arfa"  target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/+201067450942">
+<a href="https://wa.me/+201067450942"  target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
